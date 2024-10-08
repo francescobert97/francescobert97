@@ -8,7 +8,7 @@ Questo template è una di quelle risorse: Copiatela o prendetene ispirazione e r
 
  
 
-[![Linkedin: francesco-bertorotta](https://img.shields.io/badge/-francescoBertorotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/developerway/)](hhttps://www.linkedin.com/company/developerway/) 
+[![Linkedin: francesco-bertorotta](https://img.shields.io/badge/-francescoBertorotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-bertorotta/)](https://www.linkedin.com/in/francesco-bertorotta/) 
 
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/DeveloperWayIT?label=follow&style=social)](https://github.com/DeveloperWayIT) 
 
