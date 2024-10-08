@@ -22,7 +22,7 @@ Qui potrete elencare i vostri progetti passati e in corso, dando visibilità e f
 
  
 
-### 🌎 Project  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](<!-- Inserisci qui il link alla repository-->) 
+### 🌎 Project  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](https://github.com/francescobert97/pokemon-react-app) 
 
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
 
@@ -36,7 +36,7 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 
  
 
-### 🍴 Project  [💻Full Stack Repo ](<!-- Inserisci qui il link alla repository-->) 
+### 🍴 Project  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
 
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
 
@@ -52,7 +52,7 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 
  
 
-### 💸 Project  [🍴Forked Repo ](<!-- Inserisci qui il link alla repository-->)  
+### 💸 Project  [Repo ](https://github.com/francescobert97/f-stream)  
 
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
 
