@@ -1,8 +1,7 @@
 ## Hi there 👋
  
 
-[![Linkedin: francesco-bertorotta](https://img.shields.io/badge/- francesco-bertorotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/francesco-bertorotta/)](https://www.linkedin.com/in/francesco-bertorotta/) 
-
+[![Linkedin: francesco-bertorotta](https://img.shields.io/badge/- francesco-bertorotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/francesco-bertorotta/)]
 [![GitHub francescobert97](https://img.shields.io/github/followers/francescobert97?label=follow&style=social)](https://github.com/francescobert97) 
 
  
