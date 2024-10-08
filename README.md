@@ -1,10 +1,8 @@
-## Welcome to DeveloperWay's GitHub page! 🔥 
+## Welcome to francescobert97's GitHub page! 🔥 
 
  
 
-Benvenuti nella pagina GitHub di DeveloperWay! Qui troverete tutte le risorse utili che vi aiuteranno nella ricerca del lavoro durante il percorso DeveloperWay. 
 
-Questo template è una di quelle risorse: Copiatela o prendetene ispirazione e rendete più professionale ed efficace il vostro GitHub. 
 
  
 
