@@ -1,5 +1,5 @@
 ## Welcome to francescobert97's GitHub page! 🔥 
-
+I’m a Front-End Developer with over 3 years of experience specializing in React and Angular. My passion lies in building dynamic and responsive web applications, but I also have some self experience working with Node.js, Express, and databases like SQL and MongoDB on the backend.
  
 
 
@@ -16,7 +16,7 @@
 
 ## Projects 
 
-### 🌎 Pokemon App  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](https://github.com/francescobert97/pokemon-react-app) 
+### 🐲 Pokemon App  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](https://github.com/francescobert97/pokemon-react-app) 
 
 Pokémon App is the ultimate app for Pokémon fans, offering an all-in-one solution to explore, capture, and manage your favorite Pokémon. With access to a complete Pokédex featuring all species, you can discover every detail about each Pokémon—types, abilities, stats, moves, and more.
 But that’s not all! It allows you to catch any Pokémon and organize them into your personal team or send them to your Pokémon Box for future use. Seamlessly switch between your active team and stored Pokémon, and dive deep into their individual stats and characteristics at the click of a button.
@@ -28,10 +28,10 @@ But that’s not all! It allows you to catch any Pokémon and organize them into
 
  
 
-### 🍴 Personal Portfolio  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
+### 💻 Personal Portfolio  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
 
-Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
-
+Welcome to my Futuristic Portfolio, a cutting-edge showcase of my skills and projects. Designed with a sleek, futuristic aesthetic, this portfolio is not just a display—it's an experience.
+Explore my expertise across a range of technologies and tools, and see how I bring ideas to life through a series of innovative projects. Each section is crafted to highlight not just what I know, but how I apply it to create real-world solutions.
  
 
 #### Tech stack: 
@@ -40,10 +40,11 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 
  
 
-### 💸 F-stream  [Repo ](https://github.com/francescobert97/f-stream)  
+### 🎥 F-stream  [Repo ](https://github.com/francescobert97/f-stream)  
 
-Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
+F-stream is your new go-to destination for streaming, offering a sleek, modern platform designed in bold red and black. With an intuitive interface and various sections to explore, F-stream makes it easy for users to discover and watch an extensive collection of movies available right on the platform.
 
+Whether you're in the mood for action-packed blockbusters or indie gems, F-stream has something for everyone. Users can dive into different categories, find hidden treasures, and enjoy their favorite films with a seamless viewing experience. No extra clutter—just pure entertainment at your fingertips.
 #### Tech stack: 
 
 - FE Website:Angular, Typescript, Rxjs, Javascript, Bootstrap, SCSS
