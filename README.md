@@ -16,13 +16,7 @@
 
 ## Projects 
 
- 
-
-Qui potrete elencare i vostri progetti passati e in corso, dando visibilità e facile accesso al vostro codice. 
-
- 
-
-### 🌎 Project  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](https://github.com/francescobert97/pokemon-react-app) 
+### 🌎 Pokemon App  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) [📄 Repo](https://github.com/francescobert97/pokemon-react-app) 
 
 Pokémon App is the ultimate app for Pokémon fans, offering an all-in-one solution to explore, capture, and manage your favorite Pokémon. With access to a complete Pokédex featuring all species, you can discover every detail about each Pokémon—types, abilities, stats, moves, and more.
 But that’s not all! It allows you to catch any Pokémon and organize them into your personal team or send them to your Pokémon Box for future use. Seamlessly switch between your active team and stored Pokémon, and dive deep into their individual stats and characteristics at the click of a button.
@@ -34,7 +28,7 @@ But that’s not all! It allows you to catch any Pokémon and organize them into
 
  
 
-### 🍴 Project  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
+### 🍴 Personal Portfolio  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
 
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
 
