@@ -22,7 +22,7 @@ Pokémon App is the ultimate app for Pokémon fans, offering an all-in-one solut
 But that’s not all! It allows you to catch any Pokémon and organize them into your personal team or send them to your Pokémon Box for future use. Seamlessly switch between your active team and stored Pokémon, and dive deep into their individual stats and characteristics at the click of a button.
  
 
-- FE Website: React, Redux, Bootstrap, Jest
+- FE Website: React, Redux, Bootstrap, Javascript, Jest
 
 - APIs : Pokemon API
 
@@ -36,25 +36,17 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 
 #### Tech stack: 
 
-- FE Website:Esempi di tech stack 
-
-- BE : Esempi di tech stack 
-
-- Authentication: Esempi di tech stack 
+- FE Website:Angular, Typescript, Rxjs, Javascript, Bootstrap, SCSS
 
  
 
-### 💸 Project  [Repo ](https://github.com/francescobert97/f-stream)  
+### 💸 F-stream  [Repo ](https://github.com/francescobert97/f-stream)  
 
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business. 
 
- 
-
 #### Tech stack: 
 
-- FE Website & mobile app: Esempi di tech stack 
-
-- BE : Esempi di tech stack 
+- FE Website:Angular, Typescript, Rxjs, Javascript, Bootstrap, SCSS
 
  
 
