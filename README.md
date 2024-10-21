@@ -12,7 +12,8 @@ I’m a Front-End Developer with over 3 years of experience specializing in Reac
 
  
 
-![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=francescobert97&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)
+![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=francescobert97&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)
+
 
 ## Projects 
 
