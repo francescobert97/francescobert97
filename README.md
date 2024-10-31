@@ -29,7 +29,7 @@ But that’s not all! It allows you to catch any Pokémon and organize them into
 
  
 
-### 💻 Personal Portfolio  [💻Live Version](https://francescobert97.github.io/)[💻Repo ](https://github.com/francescobert97/francescobert97.github.io) 
+### 💻 Personal Portfolio  [💻Live Version](https://francescobert97.github.io/)[📄Repo ](https://github.com/francescobert97/francescobert97.github.io) 
 
 Welcome to my Futuristic Portfolio, a cutting-edge showcase of my skills and projects. Designed with a sleek, futuristic aesthetic, this portfolio is not just a display—it's an experience.
 Explore my expertise across a range of technologies and tools, and see how I bring ideas to life through a series of innovative projects. Each section is crafted to highlight not just what I know, but how I apply it to create real-world solutions.
@@ -41,7 +41,7 @@ Explore my expertise across a range of technologies and tools, and see how I bri
 
  
 
-### 🎥 F-stream  [💻Live Version](https://f-stream.vercel.app/login)[Repo ](https://github.com/francescobert97/f-stream)  
+### 🎥 F-stream  [💻Live Version](https://f-stream.vercel.app/login)[📄Repo ](https://github.com/francescobert97/f-stream)  
 
 F-stream is your new go-to destination for streaming, offering a sleek, modern platform designed in bold red and black. With an intuitive interface and various sections to explore, F-stream makes it easy for users to discover and watch an extensive collection of movies available right on the platform.
 
