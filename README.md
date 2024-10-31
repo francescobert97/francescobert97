@@ -41,7 +41,7 @@ Explore my expertise across a range of technologies and tools, and see how I bri
 
  
 
-### 🎥 F-stream  [Repo ](https://github.com/francescobert97/f-stream)  
+### 🎥 F-stream  💻Live Version](https://f-stream.vercel.app/login)[Repo ](https://github.com/francescobert97/f-stream)  
 
 F-stream is your new go-to destination for streaming, offering a sleek, modern platform designed in bold red and black. With an intuitive interface and various sections to explore, F-stream makes it easy for users to discover and watch an extensive collection of movies available right on the platform.
 
