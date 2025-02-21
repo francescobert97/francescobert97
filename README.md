@@ -50,8 +50,17 @@ Whether you're in the mood for action-packed blockbusters or indie gems, F-strea
 
 - FE Website:Angular, Typescript, Rxjs, Javascript, Bootstrap, SCSS
 
- 
+### 📊Barber-shop CRM    [💻Live Version](https://barber-shop-crm-qq1j.vercel.app/)[📄Repo ](https://github.com/francescobert97/Barber-shop-CRM)  
+Running a barber shop isn’t just about great cuts—it’s about smart management. Our CRM app is built for barber shop teams to track sales, manage services, and optimize daily operations with ease.
 
+🔹 Sales & Revenue Tracking: Monitor daily earnings, top-selling services, and overall performance.
+🔹 Service Insights: Keep track of booked, completed, and canceled appointments in real time.
+🔹 Upselling Management: Stay on top of product sales and suggest add-ons to boost revenue.
+
+With our intuitive dashboard and real-time data, your team can improve efficiency, and maximize profits—all from one app.
+#### Tech stack: 
+
+- FE Website:React, Typescript,  MaterialUI, Javascript, Bootstrap
 <!-- 
 
 **DeveloperWayIT/DeveloperWayIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
